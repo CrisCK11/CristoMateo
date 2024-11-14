@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristo</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
-
-- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
+- 🌱 I’m currently learning ** Java, Angular and PostgreSQL **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern **
-- 🥅 2021 Goals: To be profficient in MERN Stack :|
-- ⚡ Fun fact: I love taking photos, playing video games.
+- 🥅 2025 Goals: Become a full stack developer 
+- ⚡ Fun fact: I playing video games.
 
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
