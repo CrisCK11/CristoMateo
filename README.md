@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ** Java, Angular and PostgreSQL **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
 - 🥅 2025 Goals: Become a full stack developer 
-- ⚡ Fun fact: I playing video games.
+- ⚡ Fun fact: I love playing video games.
 
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
